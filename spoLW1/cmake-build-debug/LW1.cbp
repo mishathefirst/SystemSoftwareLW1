@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="LW1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/misha/Документы/LW1Prog/spoLW1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/misha/Документы/LW1Prog/spoLW1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/misha/Документы/LW1Prog/spoLW1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/misha/Документы/LW1Prog/spoLW1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/misha/Документы/LW1Prog/spoLW1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/misha/Документы/LW1Prog/spoLW1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/misha/Документы/LW1Prog/spoLW1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/misha/Документы/LW1Prog/spoLW1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/misha/Документы/LW1Prog/spoLW1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/misha/Документы/LW1Prog/spoLW1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/misha/Документы/LW1Prog/spoLW1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/misha/Документы/LW1Prog/spoLW1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/misha/Документы/LW1Prog/spoLW1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/misha/Документы/LW1Prog/spoLW1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/misha/Документы/LW1Prog/spoLW1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LW1">
+				<Option output="/home/misha/Документы/LW1Prog/spoLW1/cmake-build-debug/LW1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/misha/Документы/LW1Prog/spoLW1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/misha/Документы/LW1Prog/spoLW1/cmake-build-debug/Makefile&quot;  VERBOSE=1 LW1"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/misha/Документы/LW1Prog/spoLW1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/misha/Документы/LW1Prog/spoLW1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/misha/Документы/LW1Prog/spoLW1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LW1/fast">
+				<Option output="/home/misha/Документы/LW1Prog/spoLW1/cmake-build-debug/LW1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/misha/Документы/LW1Prog/spoLW1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/misha/Документы/LW1Prog/spoLW1/cmake-build-debug/Makefile&quot;  VERBOSE=1 LW1/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/misha/Документы/LW1Prog/spoLW1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/misha/Документы/LW1Prog/spoLW1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/misha/Документы/LW1Prog/spoLW1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/misha/Документы/LW1Prog/spoLW1/headers/commands.h">
+			<Option target="LW1"/>
+		</Unit>
+		<Unit filename="/home/misha/Документы/LW1Prog/spoLW1/headers/constants.h">
+			<Option target="LW1"/>
+		</Unit>
+		<Unit filename="/home/misha/Документы/LW1Prog/spoLW1/headers/filesystem_utils.h">
+			<Option target="LW1"/>
+		</Unit>
+		<Unit filename="/home/misha/Документы/LW1Prog/spoLW1/headers/mode.h">
+			<Option target="LW1"/>
+		</Unit>
+		<Unit filename="/home/misha/Документы/LW1Prog/spoLW1/headers/operations_ext.h">
+			<Option target="LW1"/>
+		</Unit>
+		<Unit filename="/home/misha/Документы/LW1Prog/spoLW1/headers/partition.h">
+			<Option target="LW1"/>
+		</Unit>
+		<Unit filename="/home/misha/Документы/LW1Prog/spoLW1/headers/state.h">
+			<Option target="LW1"/>
+		</Unit>
+		<Unit filename="/home/misha/Документы/LW1Prog/spoLW1/headers/structures.h">
+			<Option target="LW1"/>
+		</Unit>
+		<Unit filename="/home/misha/Документы/LW1Prog/spoLW1/headers/user_interface.h">
+			<Option target="LW1"/>
+		</Unit>
+		<Unit filename="/home/misha/Документы/LW1Prog/spoLW1/headers/utils.h">
+			<Option target="LW1"/>
+		</Unit>
+		<Unit filename="/home/misha/Документы/LW1Prog/spoLW1/sources/commands.c">
+			<Option target="LW1"/>
+		</Unit>
+		<Unit filename="/home/misha/Документы/LW1Prog/spoLW1/sources/filesystem_utils.c">
+			<Option target="LW1"/>
+		</Unit>
+		<Unit filename="/home/misha/Документы/LW1Prog/spoLW1/sources/main.c">
+			<Option target="LW1"/>
+		</Unit>
+		<Unit filename="/home/misha/Документы/LW1Prog/spoLW1/sources/mode.c">
+			<Option target="LW1"/>
+		</Unit>
+		<Unit filename="/home/misha/Документы/LW1Prog/spoLW1/sources/operations_ext.c">
+			<Option target="LW1"/>
+		</Unit>
+		<Unit filename="/home/misha/Документы/LW1Prog/spoLW1/sources/partition.c">
+			<Option target="LW1"/>
+		</Unit>
+		<Unit filename="/home/misha/Документы/LW1Prog/spoLW1/sources/user_interface.c">
+			<Option target="LW1"/>
+		</Unit>
+		<Unit filename="/home/misha/Документы/LW1Prog/spoLW1/sources/utils.c">
+			<Option target="LW1"/>
+		</Unit>
+		<Unit filename="/home/misha/Документы/LW1Prog/spoLW1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
